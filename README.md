@@ -51,7 +51,7 @@ Any quantum simulator or device (e.g., IBM Qiskit backend)
 
 After running the random number generator 100 times, the distribution looks approximately uniform:
 
-![Results](results.png)
+![Results](result.png)
 
 ---
 
